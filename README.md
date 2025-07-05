@@ -12,7 +12,7 @@
   - [MuteActiveWindow-Lite](https://github.com/tfourj/MuteActiveWindow-Lite) (Stripped down Auto-Hotkey script)
   - [maw-muter](https://github.com/tfourj/maw-muter) (C# muting backend):
     - Maw-muter.ahk (AutoHotkey muter backend)
-    - maw-muter.exe (C++ command-line muting app)
+    - maw-muter.exe (C# command-line muting app)
 - 🎮 **Steam Share Suite** - Steam Family Sharing tools:
   - [steam-family-share-checker](https://github.com/tfourj/steam-family-share-checker) ([steamshare.site](https://steamshare.site)) (JavaScript/HTML web app)
   - [steamshare-fetcher](https://github.com/tfourj/sf) (Node.js backend - private for now)
