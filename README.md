@@ -10,7 +10,7 @@
   - [MuteActiveWindowC](https://github.com/tfourj/MuteActiveWindowC) (C++ app)
   - [MuteActiveWindow](https://github.com/tfourj/MuteActiveWindow) (AutoHotkey script)
   - [MuteActiveWindow-Lite](https://github.com/tfourj/MuteActiveWindow-Lite) (Stripped down Auto-Hotkey script)
-  - [maw-muter](https://github.com/tfourj/maw-muter) (C# muting backend):
+  - [maw-muter](https://github.com/tfourj/maw-muter) (MuteActiveWindow's default muting backends):
     - Maw-muter.ahk (AutoHotkey muter backend)
     - maw-muter.exe (C# command-line muting app)
 - 🎮 **Steam Share Suite** - Steam Family Sharing tools:
