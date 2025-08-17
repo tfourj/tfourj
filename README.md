@@ -20,6 +20,7 @@
   - [ClockMod](https://github.com/tfourj/ClockMod) (C# mod for Schedule I - customizable on-screen clock)
 - 🏠 **Home Assistant Suite** - Add-ons and tools for Home Assistant:
   - [default-dashboard-user](https://github.com/tfourj/default-dashboard-user) (Set default dashboard globally or per user; fork of [daredoes/default-dashboard](https://github.com/daredoes/default-dashboard))
+  - [cover-control-button-row](https://github.com/tfourj/cover-control-button-row) (Lovelace custom card for cover control with extra features: custom confirmation text, timer triggers, prevent default open options, ...; fork of [finity69x2/cover-control-button-row](https://github.com/finity69x2/cover-control-button-row))
   - [MPM - MQTTPowerManager](https://github.com/tfourj/MPM) (Manage power via MQTT, C++ and QT Windows app)
 ---
 
