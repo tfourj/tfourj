@@ -22,7 +22,7 @@
   - [MPM - MQTTPowerManager](https://github.com/tfourj/MPM) (Manage power via MQTT, C++ and QT Windows app)
 - 🎯 **Game Mods** - Game modifications and enhancements:
   - Minecraft:
-    - [BetterSprint](https://github.com/tfourj/BeetterSprint) (Minecraft mod that improves native toggle sprint function)
+    - [BetterSprint](https://github.com/tfourj/BetterSprint) (Minecraft mod that improves native toggle sprint function)
   - Schedule 1:
     - [ClockMod](https://github.com/tfourj/ClockMod) (C# mod for Schedule I - customizable on-screen clock)
 ---
