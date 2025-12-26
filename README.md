@@ -6,7 +6,8 @@
 - 📱 **Nickel Suite** - iOS image/video downloading ecosystem:
   - [Nickel](https://github.com/tfourj/Nickel) (iOS app written in Swift)
   - [Nickel-Auth](https://github.com/tfourj/Nickel-Auth) (Cobalt.tools API & Nickel authentication bridge)
-- 🔇 **Muting Apps Suite** - Multiple solutions for app muting:
+- 🔇 **Audio Suite** - Multiple solutions for managing system-wide audio:
+  - [Earie](https://github.com/tfourj/Earie) (Qt/C++ EarTrumpet like alternative)
   - [MuteActiveWindowC](https://github.com/tfourj/MuteActiveWindowC) (C++ app)
   - [MuteActiveWindow](https://github.com/tfourj/MuteActiveWindow) (AutoHotkey script)
   - [MuteActiveWindow-Lite](https://github.com/tfourj/MuteActiveWindow-Lite) (Stripped down Auto-Hotkey script)
