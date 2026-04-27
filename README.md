@@ -5,10 +5,13 @@
 - 📱 **iOS Apps**
   - [Palladium](https://github.com/tfourj/Palladium) (iOS app that uses yt-dlp to download media)
   - [Nickel](https://github.com/tfourj/Nickel) (iOS app that uses the cobalt.tools API to download media)
-- 🔇 **Audio Apps**
+- 🖥️ **Windows Apps**
   - [Earie](https://github.com/tfourj/Earie) (Qt/C++ EarTrumpet-like alternative)
   - [MuteActiveWindowC](https://github.com/tfourj/MuteActiveWindowC) (C++ app)
   - [MuteActiveWindow](https://github.com/tfourj/MuteActiveWindow) (AutoHotkey script)
+- 🌐 **Web Apps**
+  - [AltEditor](https://github.com/tfourj/AltEditor) (Repository editor for AltStore PAL)
+  - [SteamShare](https://github.com/tfourj/steam-family-share-checker) (Website to check if steam game allows family sharing)
 ---
 
 #### 📊 My GitHub Stats
