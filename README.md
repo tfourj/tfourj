@@ -11,6 +11,7 @@
   - [MuteActiveWindow](https://github.com/tfourj/MuteActiveWindow) (AutoHotkey script)
 - 🌐 **Web Apps**
   - [AltEditor](https://github.com/tfourj/AltEditor) (Repository editor for AltStore PAL)
+  - [StarWatch](https://github.com/tfourj/StarWatch) (Self-hosted github star tracker)
   - [SteamShare](https://github.com/tfourj/steam-family-share-checker) (Website to check if steam game allows family sharing)
 ---
 
