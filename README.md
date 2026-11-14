@@ -16,7 +16,7 @@
 ---
 
 #### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tfourj&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-stats-extended.vercel.app/api?username=tfourj&show_icons=true&theme=radical)
 
 #### 🧠 Top Languages
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tfourj&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=tfourj&layout=compact&theme=radical)
